@@ -1,0 +1,83 @@
+---
+title: "Emisiones de CO₂ por tipo de combustible"
+author:
+  - name: "Nombre del autor"
+    affiliation: "Nombre de la institución"
+date: today
+lang: es
+format:
+  docx:
+    toc: false
+    number-sections: true
+    fig-cap-location: bottom
+    tbl-cap-location: top
+bibliography: references.bib
+csl: apa-6th-edition.csl
+link-citations: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+# Resumen
+
+Escriba aquí un resumen breve del estudio, incluyendo el objetivo, la metodología, los principales resultados y la conclusión.
+
+**Palabras clave:** emisiones de CO₂; combustibles; ciencia de datos; análisis reproducible.
+
+# Introducción
+
+Presente el problema de investigación, los antecedentes y el objetivo del estudio. Las referencias se insertan usando su identificador BibTeX, por ejemplo: [@ipcc2023].
+
+# Materiales y métodos
+
+## Fuente de los datos
+
+Describa la procedencia de los datos, el período analizado, las variables utilizadas y los criterios de inclusión o exclusión.
+
+## Procesamiento y análisis
+
+Indique que el análisis fue realizado en R y describa brevemente los procedimientos estadísticos y gráficos empleados.
+
+```{r}
+#| label: setup
+#| include: false
+
+library(tidyverse)
+```
+
+# Resultados
+
+Presente los principales hallazgos mediante texto, tablas y figuras.
+
+```{r}
+#| label: fig-ejemplo
+#| fig-cap: "Ejemplo de figura generada de forma reproducible."
+
+# Inserte aquí el código para generar la figura.
+```
+
+# Discusión
+
+Interprete los resultados, compárelos con estudios previos y explique sus implicaciones, limitaciones y posibles aplicaciones.
+
+# Conclusiones
+
+Resuma los hallazgos principales y su relación con el objetivo del estudio.
+
+# Declaraciones
+
+## Disponibilidad de datos y código
+
+Los datos y el código utilizados para reproducir el análisis estarán disponibles en el repositorio del proyecto.
+
+## Conflicto de intereses
+
+Los autores declaran no tener conflictos de intereses.
+
+## Financiamiento
+
+Indique aquí la fuente de financiamiento o declare que el estudio no recibió financiamiento externo.
+
+# Referencias
