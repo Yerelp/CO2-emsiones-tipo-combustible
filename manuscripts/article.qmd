@@ -1,5 +1,5 @@
 ---
-title: "Emisiones de CO₂ por tipo de combustible"
+title: "Estructura multivariante de las emisiones de CO₂ del sector energético dominicano según tipo de combustible, 2000–2022"
 author:
   - name: "Nombre del autor"
     affiliation: "Nombre de la institución"
@@ -22,9 +22,9 @@ execute:
 
 # Resumen
 
-Escriba aquí un resumen breve del estudio, incluyendo el objetivo, la metodología, los principales resultados y la conclusión.
+Las emisiones de dióxido de carbono asociadas al sector energético constituyen un indicador relevante para evaluar los cambios en la composición de las fuentes de energía y sus implicaciones ambientales. Este estudio caracterizó la estructura multivariante de las emisiones de CO₂ del sector energético de la República Dominicana según tipo de combustible durante el período 2000–2022. Se analizaron 23 observaciones anuales y 16 categorías de combustible, a partir de datos publicados por la Oficina Nacional de Estadística. Los valores faltantes fueron tratados mediante imputación basada en componentes principales regularizados. La adecuación de la matriz se evaluó mediante la medida de Kaiser-Meyer-Olkin y la prueba de esfericidad de Bartlett, seguida de un análisis de componentes principales y un análisis de conglomerados sobre variables estandarizadas. Nueve categorías de combustible fueron retenidas para el análisis final. Los dos primeros componentes explicaron el 76.89 % de la variabilidad total. El primer componente contrapuso las emisiones asociadas al petróleo crudo con aquellas vinculadas al gas natural, gas licuado de petróleo, coque y otros combustibles. El agrupamiento identificó dos conjuntos de años, correspondientes a 2000–2007 y 2008–2022. Los resultados evidencian una reorganización del perfil de emisiones hacia una composición más diversificada, aunque todavía predominantemente fósil, y aportan una referencia exploratoria para el seguimiento ambiental y energético de la República Dominicana.
 
-**Palabras clave:** emisiones de CO₂; combustibles; ciencia de datos; análisis reproducible.
+**Palabras clave:** cambio climático; contaminación atmosférica; análisis multivariado; estadísticas ambientales; indicadores ambientales.
 
 # Introducción
 
