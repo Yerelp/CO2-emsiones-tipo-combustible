@@ -1,0 +1,20 @@
+Año,Variable,Valor_imputado,Método,Negativo
+2019,Bagazo de caña,928.9614044306674,missForest con Año,FALSE
+2020,Bagazo de caña,919.8735837505989,missForest con Año,FALSE
+2021,Bagazo de caña,942.5540064552687,missForest con Año,FALSE
+2022,Bagazo de caña,918.9970599136058,missForest con Año,FALSE
+2019,Coque,1435.9015357870064,missForest con Año,FALSE
+2020,Coque,1301.9860909396148,missForest con Año,FALSE
+2021,Coque,1376.8905099170981,missForest con Año,FALSE
+2022,Coque,1165.5719977509232,missForest con Año,FALSE
+2000,Gas natural,381.8770622451046,Regresión lineal sobre log1p,FALSE
+2001,Gas natural,427.4000253758539,Regresión lineal sobre log1p,FALSE
+2002,Gas natural,478.33553570922703,Regresión lineal sobre log1p,FALSE
+2019,Leña,1742.9663269323262,missForest con Año,FALSE
+2020,Leña,1720.370479468571,missForest con Año,FALSE
+2021,Leña,1729.4763185159436,missForest con Año,FALSE
+2022,Leña,1699.5116203349844,missForest con Año,FALSE
+2019,Otros primarias,35.28210643808262,missForest con Año,FALSE
+2020,Otros primarias,33.74051762055962,missForest con Año,FALSE
+2021,Otros primarias,34.1039297674725,missForest con Año,FALSE
+2022,Otros primarias,32.60121329151183,missForest con Año,FALSE

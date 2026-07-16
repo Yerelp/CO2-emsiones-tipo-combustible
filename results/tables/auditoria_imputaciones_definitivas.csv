@@ -1,0 +1,20 @@
+Año,Variable,Valor_imputado,Método,Negativo
+2019,Bagazo de caña,1016.0927880610863,Media de las últimas 3 observaciones,FALSE
+2020,Bagazo de caña,1016.0927880610863,Media de las últimas 3 observaciones,FALSE
+2021,Bagazo de caña,1016.0927880610863,Media de las últimas 3 observaciones,FALSE
+2022,Bagazo de caña,1016.0927880610863,Media de las últimas 3 observaciones,FALSE
+2019,Coque,1486.0533554639594,Media de las últimas 3 observaciones,FALSE
+2020,Coque,1486.0533554639594,Media de las últimas 3 observaciones,FALSE
+2021,Coque,1486.0533554639594,Media de las últimas 3 observaciones,FALSE
+2022,Coque,1486.0533554639594,Media de las últimas 3 observaciones,FALSE
+2000,Gas natural,381.8770622451046,Regresión lineal sobre log1p,FALSE
+2001,Gas natural,427.4000253758539,Regresión lineal sobre log1p,FALSE
+2002,Gas natural,478.33553570922703,Regresión lineal sobre log1p,FALSE
+2019,Leña,1746.516393718459,missForest con Año,FALSE
+2020,Leña,1728.604800701988,missForest con Año,FALSE
+2021,Leña,1734.0377277010368,missForest con Año,FALSE
+2022,Leña,1715.9259504688687,missForest con Año,FALSE
+2019,Otros primarias,38.13049074180253,Regresión lineal,FALSE
+2020,Otros primarias,38.82515490243941,Regresión lineal,FALSE
+2021,Otros primarias,39.51981906307651,Regresión lineal,FALSE
+2022,Otros primarias,40.21448322371339,Regresión lineal,FALSE
